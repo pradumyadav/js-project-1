@@ -329,8 +329,8 @@ div img{
 .Z{
     
      position:relative;
-     left:0px;
-   
+     left:-10px;
+    right:65px;
      bottom: 35px;
 }
 .small2 img{   
