@@ -34,9 +34,9 @@ function callhear(){
     }
 
 
-HOURS.innerText=`${hours} hours`
-MIN.innerText=`${mins} mins`
-SEC.innerText=`${sec} sec`
+HOURS.innerText=`${hours} HUR`
+MIN.innerText=`${mins} MIN`
+SEC.innerText=`${sec} SEC`
     
    }
 setInterval(()=>{
